@@ -1,48 +1,59 @@
-# Duesday 🗓️
+# Duesday
 
-Duesday is a calm, simple deadline tracker built for students. Track your assignments, exams, projects, and quizzes — and see at a glance how heavy your week really is.
+**Never miss a deadline again.**
 
-**100% offline. No account required. No ads. No tracking.** Your data stays entirely on your device.
+Duesday is a calm, simple deadline tracker for students. Add your assignments,
+exams, projects, and quizzes — then see at a glance what's coming and how heavy
+your week really is.
 
----
+**Offline-first. No account. No ads. No tracking.** Your data stays on your
+phone. The optional AI note scanner is the only feature that requires an
+internet connection.
 
-## Key Features
+## Features
 
-- 📅 **Workload Dashboard** — See your next 7 days at a glance: total estimated hours, busiest days, and subject breakdown.
-- 🗓️ **Smart Calendar** — A month view where every day is color-tinted by workload intensity (light → moderate → heavy → very heavy).
-- 🧠 **AI Note Scanner** *(Optional)* — Photograph handwritten notes or upload PDFs to extract tasks and deadlines automatically via Google Gemini.
-- 🔔 **Local Reminders** — Customizable notifications before each deadline (e.g., 1 day or 3 hours prior).
-- 📌 **Home-Screen Widgets** — Keep upcoming deadlines and countdowns front and center.
-- 🔁 **Recurring Tasks** — Easily manage recurring weekly or monthly assignments.
-- 🌙 **Customization & Export** — Dark mode, flexible week-start options (Monday or Sunday), and CSV data export.
+- 📊 **Workload dashboard** — the next 7 days at a glance: total hours, your
+  busiest day, and hours per subject.
+- 📅 **Calendar** — a month view where every day is color-tinted by workload
+  (light → moderate → heavy → very heavy).
+- 📋 **Requirements** — assignments, exams, projects, quizzes, and more, with
+  priority and estimated hours.
+- 🧠 **AI note scanner** *(optional)* — photograph your handwritten notes or
+  pick a PDF, and the tasks and deadlines are added for you. Internet
+  connection required.
+- 💡 **AI priority hints** *(optional)* — suggested priority as you type.
+- 🔔 **Smart reminders** — local notifications before each deadline, with the
+  lead time you choose (e.g. 1 day or 3 hours).
+- 📌 **Home-screen widgets** — countdown and upcoming-deadline widgets.
+- 🔁 **Recurring tasks** — for weekly or monthly assignments.
+- 🌙 **Dark mode**, Monday-or-Sunday week start, and CSV export.
+- 📱 **Interactive tutorial** — a quick tour the first time you open the app.
 
----
+## Download
 
-## Download & Installation
+Grab the latest APK from the
+[Releases page](https://github.com/KBDATUIN/duesday/releases).
 
-Get the latest APK directly from the **[Releases Page](https://github.com/KBDATUIN/duesday/releases)**.
+> **Note:** Android may warn about installing from "unknown sources" — that's
+> normal for APKs installed outside the Play Store. Tap **Install anyway**
+> (or allow "Install unknown apps" for your browser or file manager).
 
+## Privacy
 
----
+Your requirements stay on your phone. The only exception is the optional AI
+scanner, which sends the specific note or photo *you choose* to Google Gemini
+for one-time reading. No account, no analytics, no ads.
 
-## Privacy First
+See the [Privacy Policy](https://duesday-privacy.vercel.app/) for details.
 
-Your data never leaves your device. The only exception is when you explicitly use the optional AI note scanner, which sends the selected photo/PDF to Google Gemini for one-time processing. 
+## Support
 
-For full details, read our **[Privacy Policy](./PRIVACY_POLICY.md)**.
+Found a bug or have an idea for a future update?
 
----
-
-## Tech Stack & Compatibility
-
-- **Platform:** Native Android (Java)
-- **Architecture:** Offline-First with local SQLite database
-- **Minimum Requirement:** Android 8.0 (API level 26) or newer
-
----
-
-## Support & Feedback
-
-Found a bug or have a suggestion?
-- Open an **[Issue](https://github.com/KBDATUIN/duesday/issues)**
+- Open an [issue](https://github.com/KBDATUIN/duesday/issues), or
 - Email: **duesday.app.ph@gmail.com**
+
+## Tech
+
+Android app (Java), offline-first with a local database. Requires Android 8.0
+(API 26) or newer.
