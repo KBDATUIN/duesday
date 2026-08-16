@@ -1,5 +1,5 @@
 <div align=center>                                                                                                  
-<img width="300" height="300" alt="deee" src="https://github.com/user-attachments/assets/46c507cd-e61a-4b02-b965-8ab35c472f32" />
+<img width="30" height="30" alt="deee" src="https://github.com/user-attachments/assets/e5b49ed0-8c77-41fc-90e9-7a63130298b4" />
 
 # Duesday
 
