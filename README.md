@@ -48,7 +48,7 @@ The only exception is the optional AI scanner and priority functions, which will
 
 **No accounts. No ads. No analytics. No tracking.**
 
-See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for the full privacy policy.
+See [PRIVACY_POLICY.md](PRIVACY_POLICY) for the full privacy policy.
 
 ## Tech Stack
 
