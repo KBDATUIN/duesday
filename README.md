@@ -2,34 +2,34 @@
 
 **Never miss a deadline again.**
 
-Duesday is a simple deadline tracker for students. Add your assignments, exams, projects and quizzes — then see at a glance what's coming and how heavy your week really is.
+Duesday is a deadline manager for students. List down your assignments, tests, projects, and quizzes, and get a quick overview of what you have to deal with this week.
 
-**Offline-first. No account. No ads. No tracking.** Your data stays on your phone; the optional AI note scanner is the only feature that needs an internet connection.
+**Works offline. Requires no registration. No advertisements. No tracking whatsoever.** All your deadlines are stored on your device, and only the AI scanner requires an internet connection.
 
 ## Why Duesday?
 
-Typing your activities, projects, assignments and other deadlines into a plain notes app only stores the text — it doesn't help you keep up.
+Entering what you are supposed to do into a simple notes app just writes it down; it does not help you stay on track.
 
-Duesday turns that list into a working tool:
+Here's how Duesday transforms that list into something usable:
 
-* A plain note is passive. **Duesday is active** — it tracks how much time each task needs, shows you the busiest days, and reminds you before deadlines hit.
-* No more scrolling to find what's due. **The calendar color-tints every day by workload**, so a heavy week is obvious at a glance instead of being buried in a text dump.
-* Notes get messy and inconsistent. **Duesday keeps everything structured** — title, subject, type, deadline, estimated hours, priority and status — so nothing important gets lost in the text.
-* A note can't warn you. **Duesday sends local reminders** with the lead time you choose and shows countdown widgets on your home screen.
-* Notes don't think ahead. **Duesday's 7-day workload dashboard** tells you what's coming and where the crunch is, so you can plan before it becomes an all-nighter.
-* And because it's a real tracker, you get **recurring tasks, CSV export and workload statistics** — things a notes app simply can't do.
+* A basic note does not act in any way. **Duesday acts on its own**, as it tracks the time required for the task, indicates the most busy days and reminds about the upcoming deadline.
+* No need to scroll through to see which tasks are due. **The calendar highlights every single day by workload**, so one can immediately notice a very busy week in terms of the amount of work, rather than searching for it in the text.
+* Notes may be messy and unstructured. **Duesday structures all information** (title, subject, type, deadline, estimated hours, priority and status).
+* Notes cannot remind one. **Duesday offers local reminders**, as well as widgets, which display a countdown until the deadline and can be placed on the home screen.
+* Notes do not offer a view on the future. **Duesday has a 7-day workload dashboard**, so one can see what is coming next and plan ahead of time.
+* The application is also able to offer **recurring tasks, CSV export and workload statistics**, which a notes app cannot provide.
 
 ## Features
 
-* **Workload dashboard** — the next 7 days at a glance: total hours, your busiest day, and hours per subject.
-* **Calendar** — a month view where every day is color-tinted by workload (light, moderate, heavy, very heavy), with tap-for-details and swipe between months.
-* **Requirements** — assignments, exams, projects, quizzes, presentations, labs and research, each with a title, subject, deadline, estimated hours and priority.
-* **AI note scanner (optional)** — photograph your handwritten notes or pick a PDF, and the tasks and deadlines are added for you. Uses Google's Gemini service only when you use it.
-* **AI priority hints (optional)** — a suggested priority as you type.
-* **Smart reminders** — local notifications before each deadline, with the lead time you choose (e.g. 1 day or 3 hours).
-* **Home-screen widgets** — countdown and upcoming-deadline widgets.
-* **Recurring tasks** — for weekly or monthly assignments.
-* **Extras** — dark/light theme, Monday-or-Sunday week start, CSV export, and an interactive tutorial.
+* **Workload Dashboard** – the next 7 days at a glance: total hours, your busiest day, and hours per subject.
+* **Calendar** – a month calendar where each day is tinted by workload (light, moderate, heavy, very heavy), and can be tapped for more details, swiped to switch month.
+* **Requirements** – assignments, exams, projects, quizzes, presentations, labs and research, with each having a title, subject, deadline, estimated hours and priority.
+* **AI note scanner (optional)** – take a photo of your handwritten notes or select a PDF file, and the tasks with deadlines will be created for you. The app uses Google's Gemini service only if you activate it.
+* **AI priority hints (optional)** – a recommended priority while typing.
+* **Smart reminders** – local reminders before each deadline, with customizable lead time (e.g. 1 day or 3 hours).
+* **Home screen widgets** – countdown widget and upcoming deadlines widget.
+* **Recurring tasks** – for assignments that repeat weekly or monthly.
+* **Others** – dark/light mode, Monday/Sunday week beginning, CSV export and tutorial.
 
 ## Screenshots
 
@@ -37,9 +37,9 @@ Duesday turns that list into a working tool:
 
 ## Privacy
 
-Your requirements stay on your phone. Everything is stored locally in an encrypted on-device database (SQLCipher, AES-256) with keys held in the Android Keystore.
+All your requirements are kept in your phone. All data is stored locally on the device in an encrypted database (SQLCipher, AES-256), where keys are kept in the Android Keystore.
 
-The only exception is the optional AI scanner and priority features, which send the specific note, photo or text you choose to Google Gemini for one-time processing.
+The only exception is the optional AI scanner and priority functions, which will transmit the exact note, image, or text that you select to Google Gemini for one-off processing.
 
 **No accounts. No ads. No analytics. No tracking.**
 
@@ -58,11 +58,11 @@ See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for the full privacy policy.
 
 ## Offline-First
 
-Duesday is designed to work without an internet connection for its core functionality.
+Duesday works offline by default with regards to its basic functionalities.
 
-Your requirements, deadlines, workload information, settings and other app data are stored locally on your device.
+Your deadlines, requirements, workload information, settings, and other data about the app are saved on your device.
 
-An internet connection is only needed when you use the optional AI features.
+The Internet is required only when using the extra features provided by the AI assistant.
 
 ## Download
 
