@@ -1,4 +1,9 @@
+<div align=center>                                                                                                  
+<img width="300" height="300" alt="deee" src="https://github.com/user-attachments/assets/46c507cd-e61a-4b02-b965-8ab35c472f32" />
+
 # Duesday
+
+</div>
 
 **Never miss a deadline again.**
 
