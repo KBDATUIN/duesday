@@ -1,0 +1,91 @@
+# Privacy Policy — Duesday
+
+**Duesday — Deadline tracker for students**
+**Effective Date:** August 14, 2026
+
+## Short Version
+
+Your requirements, deadlines, and settings are stored **ONLY on your device**.
+
+There are **NO accounts, no ads, no analytics, and no tracking**.
+
+The only time anything leaves your device is when you actively use the optional **AI note scanner** or **AI priority suggestion**, which sends the specific notes or photo you choose, or the text you typed, to Google's Gemini service for one-time processing.
+
+## 1. Local Data Storage
+
+Duesday stores all of the following locally on your device in the app's private on-device database and preferences:
+
+* **Requirements you add** — title, subject, type, description, deadline, estimated hours, priority, status, creation date, repeat settings, and notes.
+* **App preferences** — reminder settings, calendar start-of-week, theme, and tutorial state.
+
+We do **NOT** use user accounts, ads, analytics, or tracking scripts.
+
+Nothing in this section is transmitted anywhere.
+
+### Reminders and Widgets
+
+If you enable reminders, the app schedules **local notifications** on your device. Notification permission is requested on Android 13+.
+
+Home-screen widgets read your requirements locally.
+
+Neither sends data anywhere.
+
+## 2. Optional AI Features — Google Gemini API
+
+When you use **Scan my notes** with a photo or PDF, or use an **AI priority suggestion**, the selected text, photo, or PDF is sent to Google's Gemini API for processing.
+
+* **One-time processing only** — The request is processed on the spot and the result is shown to you. Nothing is sent when AI features are not in use.
+* **Not used for training** — Per Google's standard Gemini API terms, data sent through the API is **NOT used to train Google's AI models**.
+* **Retention** — Google may temporarily retain prompts and responses for up to 30 days for abuse and quality monitoring under its standard Gemini API data policies.
+* **No Duesday-side storage** — We do not store or retain any AI payloads ourselves. There is no cache, no logs, and no copies beyond the local file you chose.
+
+## 3. App Permissions
+
+Duesday only uses permissions for the features described in this policy.
+
+* **Internet / Network state** — used exclusively by the optional AI features above.
+* **Notifications (Android 13+)** — used strictly for your local deadline reminders.
+* **Photos / Files** — accessed only via the system file picker when you choose a photo or PDF to scan. The app never scans your photo gallery, and no storage permission is requested.
+
+## 4. Data Control and Deletion
+
+You retain full control over your data.
+
+You can:
+
+* **Delete individual items** anytime from a requirement's detail screen.
+* **Clear all stored data** via Settings → Data → **Clear all requirements**. A one-time undo is offered immediately after.
+* **Clear completed items** via Settings → Data → **Clear completed**.
+* **Uninstall Duesday** to completely remove all local app data from your device.
+
+If you've previously enabled Android's automatic app-data backup, a recent copy may exist in your Google account backup.
+
+## 5. Children
+
+Duesday is designed for students and does not collect personal information.
+
+It has:
+
+* No accounts
+* No chat
+* No public content
+
+The only third-party interaction is the optional AI scanner, which processes a user-selected image, PDF, or text on demand.
+
+## 6. Changes to This Policy
+
+If this policy changes, the **Effective Date** above will be revised.
+
+The updated policy will appear in the app under:
+
+**Settings → About → Privacy Policy**
+
+## 7. Contact
+
+Questions about this policy or your data?
+
+**[duesday.app.ph@gmail.com](mailto:duesday.app.ph@gmail.com)**
+
+---
+
+**© 2026 Duesday**
