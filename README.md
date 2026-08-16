@@ -2,7 +2,7 @@
 
 **Never miss a deadline again.**
 
-Duesday is a calm, simple deadline tracker for students. Add your assignments, exams, projects, and quizzes — then see at a glance what's coming and how heavy your week really is.
+Duesday is a simple deadline tracker for students. Add your assignments, exams, projects, and quizzes — then see at a glance what's coming and how heavy your week really is.
 
 **Offline-first. No account. No ads. No tracking.** Your data stays on your phone. The optional AI features are the only features that require an internet connection.
 
