@@ -33,7 +33,14 @@ Duesday turns that list into a working tool:
 
 ## Screenshots
 
-Screenshots of the dashboard, calendar, requirements list, AI scanner, workload overview, and settings will be added here.
+<img width="1080" height="2392" alt="Screenshot_20260816_122846" src="https://github.com/user-attachments/assets/b8090bc2-af99-49e6-a4f3-aeb6706bf17a" />
+<img width="1080" height="2392" alt="Screenshot_20260816_122849" src="https://github.com/user-attachments/assets/1a14059e-b095-4e71-aedc-aa917f2bf572" />
+<img width="1080" height="2392" alt="Screenshot_20260816_122852" src="https://github.com/user-attachments/assets/1ebe841a-a8c5-45e0-a79a-19c382b789de" />
+<img width="1080" height="2392" alt="Screenshot_20260816_122855" src="https://github.com/user-attachments/assets/3134db4d-b62a-44c8-b410-ed79b0af6e97" />
+<img width="1080" height="2392" alt="Screenshot_20260816_122859" src="https://github.com/user-attachments/assets/42114f9d-f861-47dc-9ce4-f7cb8c3e2543" />
+<img width="1080" height="2392" alt="Screenshot_20260816_122904" src="https://github.com/user-attachments/assets/0aeb61ac-582d-464f-b49c-6f9b7d279e33" />
+<img width="1080" height="2392" alt="Screenshot_20260816_122907" src="https://github.com/user-attachments/assets/2f4cfdc3-1ce2-46fc-884d-f2f272af6694" />
+
 
 ## Privacy
 
